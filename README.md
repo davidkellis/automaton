@@ -1,0 +1,2 @@
+# automaton
+Home automation routines
